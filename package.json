@@ -1,0 +1,20 @@
+{
+  "type": "module",  
+  "name": "paz_no_vale",
+  "version": "1.0.0",
+  "description": "Sistema Gerencial para Planos Funerários",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexon Gomes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.2.1",
+    "ts-node": "^10.9.2"
+  }
+}
