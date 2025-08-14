@@ -1,2 +1,38 @@
-# paz_no_vale
-Esse projeto utiliza para o backend a linguagem Node e para o Frontend TypeScript. O objetivo desse sistema é gerenciar as atividades de uma funerária, controlando planos, clientes, financeiro, etc.
+## Requisitos
+
+* Conferir a versão do Node.js 22 ou superior: node -v
+* Conferir se está instalado o npx: npx -v
+
+## Como rodar o projeto baixado
+
+Instalar todas as dependências indicadas pelo package.json.
+```
+npm install
+```
+
+Rodar o projeto React.
+```
+npm run dev
+```
+
+Acessar no navegador a URL.
+```
+http://localhost:3000
+```
+
+## Sequencia para criar o projeto
+
+Criar o projeto com React e Next.js. O ponto "." indica que deve ser criado no próprio diretório. 
+```
+npx create-next-app@latest .
+```
+
+Rodar o projeto React.
+```
+npm run dev
+```
+
+Acessar no navegador a URL.
+```
+http://localhost:3000
+```
